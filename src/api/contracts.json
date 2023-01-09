@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-04 00:00:00",
+    "end_date": "2022-08-04 00:00:00",
+    "base_amount": 100,
+    "actual_amount": 100,
+    "code": "3M001"
+  },
+  {
+    "id": 2,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-01 00:00:00",
+    "end_date": "2022-08-01 00:00:00",
+    "base_amount": 50,
+    "actual_amount": 50,
+    "code": "3M002"
+  },
+  {
+    "id": 3,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-11 00:00:00",
+    "end_date": "2022-11-11 00:00:00",
+    "base_amount": 80,
+    "actual_amount": 80,
+    "code": "3M003"
+  },
+  {
+    "id": 4,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-13 00:00:00",
+    "end_date": "2022-12-01 00:00:00",
+    "base_amount": 150,
+    "actual_amount": 150,
+    "code": "3M004"
+  },
+  {
+    "id": 5,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-05 00:00:00",
+    "end_date": "2022-08-12 00:00:00",
+    "base_amount": 200,
+    "actual_amount": 200,
+    "code": "3M005"
+  },
+  {
+    "id": 6,
+    "supply_vendor": 3,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-22 00:00:00",
+    "end_date": "2022-09-01 00:00:00",
+    "base_amount": 170,
+    "actual_amount": 170,
+    "code": "3M006"
+  },
+  {
+    "id": 7,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-06 00:00:00",
+    "end_date": "2022-09-25 00:00:00",
+    "base_amount": 50,
+    "actual_amount": 50,
+    "code": "SANMAR001"
+  },
+  {
+    "id": 8,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-15 00:00:00",
+    "end_date": "2022-10-01 00:00:00",
+    "base_amount": 80,
+    "actual_amount": 80,
+    "code": "SANMAR002"
+  },
+  {
+    "id": 9,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-25 00:00:00",
+    "end_date": "2022-08-25 00:00:00",
+    "base_amount": 90,
+    "actual_amount": 90,
+    "code": "SANMAR003"
+  },
+  {
+    "id": 10,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-08 00:00:00",
+    "end_date": "2022-07-14 00:00:00",
+    "base_amount": 125,
+    "actual_amount": 125,
+    "code": "SANMAR004"
+  },
+  {
+    "id": 11,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-12 00:00:00",
+    "end_date": "2022-08-01 00:00:00",
+    "base_amount": 175,
+    "actual_amount": 175,
+    "code": "SANMAR005"
+  },
+  {
+    "id": 12,
+    "supply_vendor": 5,
+    "supply_vendor_name": "TPP",
+    "start_date": "2022-07-01 00:00:00",
+    "end_date": "2022-10-01 00:00:00",
+    "base_amount": 250,
+    "actual_amount": 250,
+    "code": "SANMAR006"
+  }
+]

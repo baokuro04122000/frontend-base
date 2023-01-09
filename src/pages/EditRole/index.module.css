@@ -1,0 +1,23 @@
+.wrapper {
+  
+}
+
+.card-info{
+  padding:90px;
+}
+
+.title-feature {
+  font-weight:bold;
+}
+.title-table {
+  font-weight: bold;
+  font-size: 16px;
+}
+.style-error-message {
+  color:red;
+  pading:"2px 2px";
+}
+.style-error-input {
+  border: 1px solid red !important;
+}
+

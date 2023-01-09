@@ -1,0 +1,27 @@
+.layout-wrapper {
+  min-height: 100vh !important;
+  
+}
+
+.logo {
+  color: #ffffff;
+  text-align: center;
+  padding: 24px 0;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.img-logo {
+  width: 96px;
+  height:68px;
+}
+
+.icon-memnu-item{
+  display: block;
+  font-size: 28px !important;
+}
+
+.label-menu-item{
+  display: block;
+}
+

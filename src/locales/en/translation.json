@@ -1,0 +1,61 @@
+{
+  "login":{
+    "login":"Login",
+    "email":"Email",
+    "password":"Password",
+    "forgotten_password":"Forgotten password?",
+    "placeholder_email":"Enter your email",
+    "plceholer_password":"Enter your password"
+  },
+  "edit_role":{
+    "sections":"Sections",
+    "permissions":"Permissions",
+    "on_off":"On/Off",
+    "assign_access":"Assign Access",
+    "notify_role":"Users in this role can access those sections",
+    "active":"Active",
+    "inactive":"Deactivate",
+    "status":"Status",
+    "role_created":"Role created:",
+    "role_last_updated":"Role last updated:"
+  },
+  "common":{
+
+  },
+  "errors":{
+    "role_name_required":"Role name is required",
+    "role_name_existed":"A role name already exists!",
+    "email_required":"Email is required",
+    "email_invalid":"Invalid email format",
+    "name_required":"Name is required",
+    "roles_required":"Roles are required"
+  },
+  "create_user":{
+    "placeholder_select":"Choose roles",
+    "title_form":"Create user",
+    "email":"Email",
+    "placeholder_email":"Enter an email...",
+    "name":"Name",
+    "placeholder_name":"Enter a name...",
+    "roles":"Roles",
+    "button_submit":"Create User",
+    "back_to_page":"Back to users"
+  },
+  "roles":{
+    "placeholder_search":"Type to search",
+    "create_role_btn":"Create role",
+    "role_name_label":"Role Name",
+    "placeholder_role_name":"Enter a name",
+    "create_role_submit":"Create new role"
+  },
+  "layout":{
+    "footer_text":"Copyright © 2020 TP&P Technology - Leading Software Development Company in Vietnam. All Rights Reserved.",
+    "logout_btn":"Logout",
+    "menu_users":"Users",
+    "menu_roles":"Roles",
+    "menu_contracts":"CONTRACTS",
+    "menu_requests":"REQUESTS",
+    "menu_subscription":"Subscription",
+    "menu_user_management":"User Management"
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "user_id": 1,
+    "email": "planner.sgptpp@gmail.com",
+    "full_name": "Tom Cruise",
+    "is_admin": false,
+    "org_id": 1,
+    "roles": [{ "id": 1, "name": "Admin" }],
+    "last_login" :"2022-09-06 06:42"
+  },
+  {
+    "user_id": 2,
+    "email": "projectcontractor.spgtpp@gmail.com",
+    "full_name": "Tom Hank",
+    "is_admin": false,
+    "org_id": 2,
+    "roles": [{ "id": 2, "name": "Sales Admin" }],
+    "last_login" :"2022-09-05 08:42"
+  },
+  {
+    "user_id": 3,
+    "email": "supplyvendor.spgtpp@gmail.com",
+    "full_name": "Tom Hiddleston",
+    "is_admin": false,
+    "org_id": 3,
+    "roles": [{ "id": 3, "name": "Sales Admin" }],
+    "last_login" :"2022-08-06 10:00"
+  },
+  {
+    "user_id": 4,
+    "email": "admin.spgtpp@gmail.com",
+    "full_name": "Tom Holland",
+    "is_admin": true,
+    "org_id": 1,
+    "roles": [{ "id": 4, "name": "ADMIN" }],
+    "last_login" :"2022-09-01 12:24"
+  },
+  {
+    "user_id": 5,
+    "email": "supplyvendor2.spgtpp@gmail.com",
+    "full_name": "Tom Hardy",
+    "is_admin": false,
+    "org_id": 4,
+    "roles": [{ "id": 5, "name": "Sales Admin" }],
+    "last_login" :"2022-07-06 08:42"
+    
+  },
+  {
+    "user_id": 6,
+    "email": "planner.sgptpp@gmail.com",
+    "full_name": "Tom Cruise",
+    "is_admin": false,
+    "org_id": 1,
+    "roles": [{ "id": 1, "name": "Sales Admin" }]
+  },
+  {
+    "user_id": 7,
+    "email": "projectcontractor.spgtpp@gmail.com",
+    "full_name": "Tom Hank",
+    "is_admin": false,
+    "org_id": 2,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 8,
+    "email": "supplyvendor.spgtpp@gmail.com",
+    "full_name": "Tom Hiddleston",
+    "is_admin": false,
+    "org_id": 3,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 9,
+    "email": "admin.spgtpp@gmail.com",
+    "full_name": "Tom Holland",
+    "is_admin": true,
+    "org_id": 1,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 10,
+    "email": "supplyvendor2.spgtpp@gmail.com",
+    "full_name": "Tom Hardy",
+    "is_admin": false,
+    "org_id": 4,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 11,
+    "email": "planner.sgptpp@gmail.com",
+    "full_name": "Tom Cruise",
+    "is_admin": false,
+    "org_id": 1,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 12,
+    "email": "projectcontractor.spgtpp@gmail.com",
+    "full_name": "Tom Hank",
+    "is_admin": false,
+    "org_id": 2,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 13,
+    "email": "supplyvendor.spgtpp@gmail.com",
+    "full_name": "Tom Hiddleston",
+    "is_admin": false,
+    "org_id": 3,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 14,
+    "email": "admin.spgtpp@gmail.com",
+    "full_name": "Tom Holland",
+    "is_admin": true,
+    "org_id": 1,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  },
+  {
+    "user_id": 15,
+    "email": "supplyvendor2.spgtpp@gmail.com",
+    "full_name": "Tom Hardy",
+    "is_admin": false,
+    "org_id": 4,
+    "roles": [{ "id": 1, "name": "ADMIN" }]
+  }
+]
